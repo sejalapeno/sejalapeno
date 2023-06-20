@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">I am an ML enthusiast</h3>
+<h3 align="center">I am a computer engineering student at Mumbai University and I am exploring ML!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalapeno&label=Profile%20views&color=0e75b6&style=flat" alt="sejalapeno" /> </p>
 
