@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">I am a Computer Engineering student at Mumbai University and ML enthusiast!</h3>
+<!---<h3 align="center">I am a Computer Engineering student at Mumbai University and ML enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalapeno&label=Profile%20views&color=0e75b6&style=flat" alt="sejalapeno" /> </p>
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejalapeno&show_icons=true&locale=en" alt="sejalapeno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejalapeno&" alt="sejalapeno" /></p>
+-->
