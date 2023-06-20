@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+<!--# 💫 About Me:
 🌱 I’m currently learning DSA and MERN stack<br>💬 Ask me about some fun python projects I made<br>⚡ Fun fact I make 3D artwork sometimes!
 
 
